@@ -1,0 +1,176 @@
+body {
+    background-color: #ccf5f5;
+}
+
+#gameholder {
+    width: 600px;
+    margin: 0 auto;
+}
+
+#title {
+    width: 600px;
+    height: 150px;
+    background-image: url(../media/penguin_title.png);
+}
+
+#slot1 {
+    width: 200px;
+    height: 200px;
+    float: left;
+    background-image: url(../media/mound_1.png);
+    -webkit-transition: background-image 0.5s;
+    transition: background-image 0.5s;
+}
+
+#slot1:hover {
+    background-image: url(../media/mound_1_hover.png);
+    cursor: pointer;
+}
+
+.penguin1-reveal {
+    background-image: url(../media/penguin_1.png) !important;
+}
+
+#slot2 {
+    width: 200px;
+    height: 200px;
+    float: left;
+    background-image: url(../media/mound_2.png);
+    -webkit-transition: background-image 0.5s;
+    transition: background-image 0.5s;
+}
+
+#slot2:hover {
+    background-image: url(../media/mound_2_hover.png);
+    cursor: pointer;
+}
+
+.penguin2-reveal {
+    background-image: url(../media/penguin_2.png) !important;
+}
+
+#slot3 {
+    width: 200px;
+    height: 200px;
+    float: left;
+    background-image: url(../media/mound_3.png);
+    -webkit-transition: background-image 0.5s;
+    transition: background-image 0.5s;
+}
+
+#slot3:hover {
+    background-image: url(../media/mound_3_hover.png);
+    cursor: pointer;
+}
+
+.penguin3-reveal {
+    background-image: url(../media/penguin_3.png) !important;
+}
+
+#slot4 {
+    width: 200px;
+    height: 200px;
+    float: left;
+    background-image: url(../media/mound_4.png);
+    -webkit-transition: background-image 0.5s;
+    transition: background-image 0.5s;
+}
+
+#slot4:hover {
+    background-image: url(../media/mound_4_hover.png);
+    cursor: pointer;
+}
+
+.penguin4-reveal {
+    background-image: url(../media/penguin_4.png) !important;
+}
+
+#slot5 {
+    width: 200px;
+    height: 200px;
+    float: left;
+    background-image: url(../media/mound_5.png);
+    -webkit-transition: background-image 0.5s;
+    transition: background-image 0.5s;
+}
+
+#slot5:hover {
+    background-image: url(../media/mound_5_hover.png);
+    cursor: pointer;
+}
+
+.penguin5-reveal {
+    background-image: url(../media/penguin_5.png) !important;
+}
+
+#slot6 {
+    width: 200px;
+    height: 200px;
+    float: left;
+    background-image: url(../media/mound_6.png);
+    -webkit-transition: background-image 0.5s;
+    transition: background-image 0.5s;
+}
+
+#slot6:hover {
+    background-image: url(../media/mound_6_hover.png);
+    cursor: pointer;
+}
+
+.penguin6-reveal {
+    background-image: url(../media/penguin_6.png) !important;
+}
+
+#slot7 {
+    width: 200px;
+    height: 200px;
+    float: left;
+    background-image: url(../media/mound_7.png);
+    -webkit-transition: background-image 0.5s;
+    transition: background-image 0.5s;
+}
+
+#slot7:hover {
+    background-image: url(../media/mound_7_hover.png);
+    cursor: pointer;
+}
+
+.penguin7-reveal {
+    background-image: url(../media/penguin_7.png) !important;
+}
+
+#slot8 {
+    width: 200px;
+    height: 200px;
+    float: left;
+    background-image: url(../media/mound_8.png);
+    -webkit-transition: background-image 0.5s;
+    transition: background-image 0.5s;
+}
+
+#slot8:hover {
+    background-image: url(../media/mound_8_hover.png);
+    cursor: pointer;
+}
+
+.penguin8-reveal {
+    background-image: url(../media/penguin_8.png) !important;
+}
+
+#slot9 {
+    width: 200px;
+    height: 200px;
+    float: left;
+    background-image: url(../media/mound_9.png);
+    -webkit-transition: background-image 0.5s;
+    transition: background-image 0.5s;
+}
+
+#slot9:hover {
+    background-image: url(../media/mound_9_hover.png);
+    cursor: pointer;
+}
+
+.yeti-reveal {
+    background-image: url(../media/yeti.png) !important;
+}
